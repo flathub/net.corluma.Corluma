@@ -6,8 +6,7 @@ command: corluma
 finish-args: 
   - --share=network
   - --share=ipc
-  - --socket=fallback-x11
-  - --socket=wayland
+  - --socket=x11
   - --filesystem=xdg-documents
 modules:
   - name: corluma
@@ -21,5 +20,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/timsee/Corluma-flathub.git
-        tag: "v1.00.13"
-        commit: "f97dd34cb99426f3913d4e0909850e22c7f901c2"
+        tag: "v1.00.17"
+        commit: "d4ba821063196fc6e5787ca311112a73f5c8ab11"
