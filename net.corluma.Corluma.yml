@@ -23,4 +23,4 @@ modules:
       - type: git
         url: https://github.com/timsee/Corluma-flathub.git
         tag: "v1.00.18"
-        commit: "cf18040040e968ef00f694ea28f7e63359262504"
+        commit: "f5267bbcc1375ace4e33b0d38f266bd39d97d52f"
