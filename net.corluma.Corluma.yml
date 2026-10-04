@@ -1,6 +1,6 @@
 app-id: net.corluma.Corluma
 runtime: org.kde.Platform
-runtime-version: '6.10'
+runtime-version: '6.11'
 sdk: org.kde.Sdk
 command: corluma
 finish-args: 
@@ -22,5 +22,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/timsee/Corluma-flathub.git
-        tag: "v1.06.14"
-        commit: "1d1d567bd53486636b027655548988ec30b4f948"
+        tag: "v1.07.05"
+        commit: "d3374b7f7b6a7fe9a357003bcfccb045ba17e527"
